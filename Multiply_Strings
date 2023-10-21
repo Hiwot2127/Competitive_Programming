@@ -1,0 +1,6 @@
+class Solution:
+    def multiply(self, num1: str, num2: str) -> str:
+        numa= int(num1)
+        numb= int(num2)
+
+        return str(numa*numb)
