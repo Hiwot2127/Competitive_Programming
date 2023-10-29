@@ -1,18 +1,21 @@
 class DataStream:
 
     def __init__(self, value: int, k: int):
-        self.value = value
+        self.val = value
         self.k = k
-        self.curr = -1
-        self.last = -1
+        self.queue = []
+        self.track = collections.defaultdict(int)
 
     def consec(self, num: int) -> bool:
-        self.curr += 1
+        self.queue.append(num)
+        self.track[num] += 1
 
-        if num != self.value:
-            self.last = self.curr
-            
-        return self.curr - self.last >= self.k
+        if len(self.queue) > self.k:
+            rmv = self.queue.pop(0)
+            self.track[rmv] -= 1
+
+        return self.track[self.val] == self.k
+        
 
 
 # Your DataStream object will be instantiated and called as such:
