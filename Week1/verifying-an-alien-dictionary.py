@@ -4,7 +4,7 @@ class Solution:
         prev = list(track[char] for char in words[0])
 
         for i in range(1, len(words)):
-            cur = list(track[ch] for ch in words[i])
+            cur = list(track[char] for char in words[i])
             if cur < prev:
                 return False
             prev = cur
