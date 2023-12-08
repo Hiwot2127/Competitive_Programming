@@ -4,7 +4,7 @@ class Solution:
         one=len(num1)
         two=len(num2)
 
-        for i in range (one):
+        for i in range(one):
             a= 10**i
             for j in range(two):
                 res+=(ord(num1[one-1-i])- ord('0'))*(ord(num2[two-1-j])-ord('0'))*a 
