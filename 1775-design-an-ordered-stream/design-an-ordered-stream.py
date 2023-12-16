@@ -6,13 +6,13 @@ class OrderedStream:
 
     def insert(self, idKey: int, value: str) -> List[str]:
         self.stream[idKey] = value
-        result = []
+        res = []
         
         while self.ptr < len(self.stream) and self.stream[self.ptr] is not None:
-            result.append(self.stream[self.ptr])
+            res.append(self.stream[self.ptr])
             self.ptr += 1
 
-        return result
+        return res
 
 
 # Your OrderedStream object will be instantiated and called as such:
