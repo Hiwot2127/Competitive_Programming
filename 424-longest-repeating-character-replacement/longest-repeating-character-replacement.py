@@ -1,6 +1,6 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        
+         
         prev = {}
         window = 0
         
