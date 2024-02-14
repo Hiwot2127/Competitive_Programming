@@ -1,12 +1,23 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        positive = [num for num in nums if num > 0]
-        negative = [num for num in nums if num < 0]
+        positive_integers = []
+        negative_integers = []
 
-        res = []
+        for num in nums:
+            if num > 0:
+                positive_integers.append(num)
+            else:
+                negative_integers.append(num)
 
-        for i in range(len(positive)):
-            res.append(positive[i])
-            res.append(negative[i])
+        result = []
 
-        return res
+        for i in range(len(positive_integers)):
+            result.append(positive_integers[i])
+            result.append(negative_integers[i])
+            
+        if len(positive_integers) > len(negative_integers):
+            result.append(positive_integers[-1])
+        elif len(negative_integers) > len(positive_integers):
+            result.append(negative_integers[-1])
+
+        return result
