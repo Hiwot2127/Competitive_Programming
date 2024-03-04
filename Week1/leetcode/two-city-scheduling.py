@@ -1,9 +1,5 @@
-class Solution(object):
-    def twoCitySchedCost(self, costs):
-        """
-        :type costs: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def twoCitySchedCost(self, costs: List[List[int]]) -> int:
         dif=[]
         for a,b in costs:
             dif.append([b-a, a, b])
