@@ -40,3 +40,15 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1285-balance-a-binary-search-tree) |
+# String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0022-generate-parentheses) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0022-generate-parentheses) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0022-generate-parentheses) |
