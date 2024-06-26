@@ -83,3 +83,11 @@
 |  |
 | ------- |
 | [2213-find-all-people-with-secret](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2213-find-all-people-with-secret) |
+# Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0061-rotate-list) |
+# Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0061-rotate-list) |
