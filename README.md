@@ -91,3 +91,22 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0061-rotate-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+## Hash Table
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+<!---LeetCode Topics End-->
