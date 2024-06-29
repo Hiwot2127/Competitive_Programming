@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+| [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,20 @@
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
