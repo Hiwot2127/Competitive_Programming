@@ -98,6 +98,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0747-min-cost-climbing-stairs) |
@@ -115,11 +116,13 @@
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 ## Depth-First Search
 |  |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0747-min-cost-climbing-stairs) |
 ## Simulation
 |  |
@@ -176,4 +180,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
