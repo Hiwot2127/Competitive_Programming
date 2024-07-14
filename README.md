@@ -96,6 +96,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
@@ -173,6 +175,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 ## Math
