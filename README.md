@@ -181,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
+## Greedy
+|  |
+| ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
