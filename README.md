@@ -98,6 +98,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0330-patching-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
@@ -198,5 +199,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0330-patching-array) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
