@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0330-patching-array) |
@@ -176,6 +177,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
