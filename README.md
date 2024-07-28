@@ -181,6 +181,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
+| [0755-reach-a-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0755-reach-a-number) |
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
 ## Sorting
@@ -195,6 +196,7 @@
 ## Math
 |  |
 | ------- |
+| [0755-reach-a-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0755-reach-a-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
