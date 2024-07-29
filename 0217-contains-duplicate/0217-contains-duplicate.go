@@ -1,9 +1,12 @@
 func containsDuplicate(nums []int) bool {
-    sort.Ints(nums)
-    for i:=1; i<len(nums);i++ {
-        if nums[i]==nums[i-1]{
-            return true
+    seen := make(map[int]struct{})
+
+    for _, num := range nums {
+        if _, ok := seen[num]; ok {
+            return true 
         }
+        seen[num] = struct{}{}
     }
+
     return false
 }
