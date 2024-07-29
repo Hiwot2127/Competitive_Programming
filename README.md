@@ -162,6 +162,7 @@
 |  |
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
