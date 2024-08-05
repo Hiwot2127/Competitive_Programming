@@ -114,6 +114,7 @@
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -208,6 +209,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1333-sort-the-jumbled-numbers) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
 ## Math
 |  |
@@ -234,6 +236,7 @@
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Bucket Sort
 |  |
 | ------- |
