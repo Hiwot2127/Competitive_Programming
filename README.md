@@ -128,6 +128,7 @@
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0165-compare-version-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0165-compare-version-numbers) |
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +241,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
 |  |
 | ------- |
