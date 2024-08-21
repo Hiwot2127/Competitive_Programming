@@ -99,6 +99,7 @@
 | [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0118-pascals-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0403-frog-jump) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
