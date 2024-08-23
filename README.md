@@ -127,6 +127,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Depth-First Search
 |  |
 | ------- |
