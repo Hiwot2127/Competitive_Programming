@@ -207,6 +207,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0258-add-digits) |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -227,6 +228,7 @@
 | [0389-find-the-difference](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0389-find-the-difference) |
 | [0664-strange-printer](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0664-strange-printer) |
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
