@@ -140,6 +140,7 @@
 | [2176-parallel-courses-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2176-parallel-courses-iii) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
@@ -282,6 +283,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -344,6 +346,7 @@
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -456,4 +459,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
