@@ -128,6 +128,7 @@
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -231,6 +232,7 @@
 | [0258-add-digits](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -270,6 +272,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Sorting
 |  |
@@ -351,6 +354,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 ## Ordered Set
 |  |
