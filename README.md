@@ -129,6 +129,7 @@
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
@@ -156,6 +157,7 @@
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -174,6 +176,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Depth-First Search
@@ -268,6 +271,7 @@
 | [0664-strange-printer](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0664-strange-printer) |
 | [0926-find-and-replace-pattern](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0926-find-and-replace-pattern) |
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -329,6 +333,7 @@
 | ------- |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
