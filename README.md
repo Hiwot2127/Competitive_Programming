@@ -140,6 +140,7 @@
 | [2176-parallel-courses-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2176-parallel-courses-iii) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
@@ -180,6 +181,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Depth-First Search
 |  |
@@ -442,4 +444,8 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
