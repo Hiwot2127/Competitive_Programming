@@ -111,6 +111,7 @@
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0747-min-cost-climbing-stairs) |
@@ -310,6 +311,7 @@
 | ------- |
 | [0330-patching-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0330-patching-array) |
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
