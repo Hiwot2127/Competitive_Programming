@@ -127,6 +127,7 @@
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2176-parallel-courses-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2176-parallel-courses-iii) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
@@ -174,6 +175,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2439-longest-cycle-in-a-graph) |
@@ -184,6 +186,7 @@
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
+| [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union Find
 |  |
@@ -191,6 +194,7 @@
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 ## Matrix
@@ -202,6 +206,7 @@
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
+| [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
