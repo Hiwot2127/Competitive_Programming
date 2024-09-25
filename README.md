@@ -145,6 +145,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 | [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Math
 |  |
 | ------- |
@@ -352,6 +355,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Bucket Sort
 |  |
 | ------- |
