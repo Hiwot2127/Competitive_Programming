@@ -189,6 +189,7 @@
 | ------- |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 ## Matrix
@@ -342,6 +343,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2439-longest-cycle-in-a-graph) |
 ## Topological Sort
