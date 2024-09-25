@@ -124,6 +124,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
@@ -243,6 +244,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1646-kth-missing-positive-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Sorting
 |  |
@@ -322,6 +324,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Graph
@@ -351,17 +354,21 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Segment Tree
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Merge Sort
 |  |
 | ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
