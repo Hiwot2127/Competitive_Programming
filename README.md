@@ -141,6 +141,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0118-pascals-triangle) |
+| [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0403-frog-jump) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0755-reach-a-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0755-reach-a-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -401,5 +404,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
