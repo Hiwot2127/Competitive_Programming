@@ -130,6 +130,7 @@
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2176-parallel-courses-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2176-parallel-courses-iii) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
@@ -210,6 +211,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
 | [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [1769-get-maximum-in-generated-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1769-get-maximum-in-generated-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
