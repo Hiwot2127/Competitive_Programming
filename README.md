@@ -137,6 +137,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
+| [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -239,6 +240,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
+| [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -387,6 +390,7 @@
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
