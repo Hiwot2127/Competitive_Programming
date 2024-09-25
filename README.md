@@ -109,6 +109,7 @@
 | [0403-frog-jump](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0403-frog-jump) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
+| [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -190,6 +193,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
