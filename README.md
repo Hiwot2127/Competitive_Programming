@@ -127,6 +127,7 @@
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2551-apply-operations-to-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Hiwot2127/Competitive_Programming/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -242,6 +243,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1646-kth-missing-positive-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Sorting
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2466-maximum-segment-sum-after-removals) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Graph
 |  |
 | ------- |
@@ -345,4 +348,20 @@
 |  |
 | ------- |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Merge Sort
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
