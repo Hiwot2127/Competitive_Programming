@@ -198,6 +198,7 @@
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [1484-linked-list-in-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -211,6 +212,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -245,6 +247,7 @@
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
 | [0664-strange-printer](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0664-strange-printer) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0747-min-cost-climbing-stairs) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2176-parallel-courses-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2176-parallel-courses-iii) |
 ## Simulation
@@ -409,6 +412,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [1696-strange-printer-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1696-strange-printer-ii) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -459,6 +463,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2479-meeting-rooms-iii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2479-meeting-rooms-iii) |
 ## Brainteaser
 |  |
@@ -468,4 +473,8 @@
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
