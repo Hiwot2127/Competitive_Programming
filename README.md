@@ -125,6 +125,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1646-kth-missing-positive-number) |
@@ -434,6 +435,7 @@
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2846-robot-collisions](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
@@ -477,4 +479,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
