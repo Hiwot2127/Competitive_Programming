@@ -208,6 +208,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2439-longest-cycle-in-a-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0960-minimize-malware-spread](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0960-minimize-malware-spread) |
 | [2035-count-sub-islands](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2035-count-sub-islands) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -392,6 +394,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +403,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
