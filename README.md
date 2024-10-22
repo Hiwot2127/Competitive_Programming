@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
@@ -210,6 +211,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
@@ -385,6 +387,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
