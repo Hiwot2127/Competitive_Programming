@@ -275,6 +275,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0165-compare-version-numbers) |
 | [0389-find-the-difference](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0389-find-the-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
@@ -491,4 +493,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
