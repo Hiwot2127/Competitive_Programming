@@ -116,6 +116,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0695-max-area-of-island) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [0926-find-and-replace-pattern](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0926-find-and-replace-pattern) |
@@ -308,6 +309,7 @@
 | [0162-find-peak-element](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0755-reach-a-number) |
 | [0853-most-profit-assigning-work](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0853-most-profit-assigning-work) |
 | [1646-kth-missing-positive-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1646-kth-missing-positive-number) |
