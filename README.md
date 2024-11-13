@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -215,6 +216,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0529-minesweeper) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -408,6 +411,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1484-linked-list-in-binary-tree) |
