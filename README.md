@@ -102,6 +102,7 @@
 | [0088-merge-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0217-contains-duplicate) |
@@ -308,6 +309,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0611-valid-triangle-number) |
