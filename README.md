@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0088-merge-sorted-array) |
@@ -308,6 +309,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0162-find-peak-element) |
