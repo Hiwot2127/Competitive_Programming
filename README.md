@@ -96,6 +96,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
@@ -157,6 +158,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
