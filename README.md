@@ -162,6 +162,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
+| [0383-ransom-note](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0645-set-mismatch) |
@@ -297,6 +298,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0165-compare-version-numbers) |
+| [0383-ransom-note](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0389-find-the-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0664-strange-printer) |
@@ -371,6 +373,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
