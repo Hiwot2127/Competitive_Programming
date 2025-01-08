@@ -131,6 +131,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1524-string-matching-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1646-kth-missing-positive-number) |
@@ -307,6 +308,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0926-find-and-replace-pattern) |
 | [1044-find-common-characters](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1044-find-common-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1524-string-matching-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Hiwot2127/Competitive_Programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -522,6 +524,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
