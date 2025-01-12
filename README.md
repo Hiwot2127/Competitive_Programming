@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -355,6 +356,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
@@ -467,6 +469,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Stack
 |  |
