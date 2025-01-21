@@ -111,6 +111,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0287-find-the-duplicate-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0330-patching-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0403-frog-jump) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0526-beautiful-arrangement) |
@@ -163,6 +164,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0491-non-decreasing-subsequences) |
@@ -359,6 +361,7 @@
 | [0070-climbing-stairs](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0755-reach-a-number](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0755-reach-a-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -522,6 +525,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Hiwot2127/Competitive_Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## String Matching
 |  |
@@ -532,4 +536,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hiwot2127/Competitive_Programming/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
